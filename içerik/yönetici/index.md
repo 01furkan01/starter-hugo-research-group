@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: wowchemycms
+type: kimyager
 private: true
 outputs:
   - wowchemycms_config
